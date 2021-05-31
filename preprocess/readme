@@ -1,0 +1,2 @@
+This is the preprocess part of the project.
+Since we have crawled all the txt data, we preprocess them line by line. 
