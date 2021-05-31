@@ -1,1 +1,2 @@
-
+This is the crawler part of the project.
+First we find all the txt urls, and then crawl each txt file down seperately.
